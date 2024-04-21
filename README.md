@@ -7,8 +7,11 @@ Exercise Overview
 The exercises involve implementing data structures (ArrayList and Set) and a registry system for managing a collection of Person objects. These exercises focus on core concepts like inheritance, serialization, and error handling.
 
 Exercise Structure
-Part 1: Data Structures and Serializable
+
+Part 1: 
+Data Structures and Serializable
 Implementing MyArrayList and MySet data structures, making them generic and serializable.
+
 Part 2: Reading and Writing
 Developing a PersonRegistry class to manage a registry of Person objects, including reading from and writing to files.
 Usage
